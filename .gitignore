@@ -1,0 +1,6 @@
+venv
+dist
+build
+.vscode
+
+osx-cpu-temp-master
